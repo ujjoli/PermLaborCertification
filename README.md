@@ -5,6 +5,6 @@ The Department of Labor (DOL) issues a permanent labor certification that author
 
 In this project, we use machine learning techniques to predict the certification status of the PERM applications based on various applicant factors. And we have implemented the model using plotly dashboard which will simulate the live demo. 
 
-The python file has all the code needed to run; and all the files are also uploaded to google cloud bucket storage. So please feel free to make some changes as you need. All the required files are also uploaded to this github.
+The "permcasecopy.py" file is the main file that needs to to run; and the other "ModelComparison.py" file is where we compared the model. Also, while doing this project all the files are also uploaded to google cloud bucket storage and the codes are written accordingly. So please feel free to make some changes as you need. All the required files are also uploaded to this github.
 
 Thank you !!!
