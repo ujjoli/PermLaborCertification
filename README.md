@@ -7,4 +7,4 @@ In this project, we use machine learning techniques to predict the certification
 
 The python file has all the code needed to run; and all the files are also uploaded to google cloud bucket storage. So please feel free to make some changes as you need. All the required files are also uploaded to this github.
 
-Thank youj
+Thank you !!!
